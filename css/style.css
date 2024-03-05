@@ -254,7 +254,7 @@ header.header-bg {
 
 header.transparent {
   border-bottom:solid 1px rgba(255, 255, 255, .15);
-  background: none;
+  background: black;
 }
 
 body:not(.side-layout) header:not(.smaller):not(.header-mobile).header-light.transparent {
