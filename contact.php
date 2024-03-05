@@ -77,7 +77,7 @@
                                 <img src="images/svg/map-pin-svgrepo-com-white.svg" class="" alt="">
                                 <div class="d-text">
                                     <h4>Address</h4>
-                                    O1117 Gaur City Centre, Gaur Chowk, West, Sector 4, Greater Noida, Uttar Pradesh 203207
+                                    O1117 Gaur City Centre, Gaur Chowk, West, Sector 4, Greater Noida, UP 203207
                                 </div>
                             </div>
                         </div>
