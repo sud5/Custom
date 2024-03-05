@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>UpTech — IT Solutions and Services Website Template</title>
+    <title>2PI Solutions</title>
     <link rel="icon" href="images/icon.png" type="image/gif" sizes="16x16">
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="width=device-width, initial-scale=1.0" name="viewport" >

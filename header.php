@@ -18,7 +18,7 @@
                                 <div class="de-flex-col">
                                     <!-- logo begin -->
                                     <div id="logo">
-                                        <a href="index.html">
+                                        <a href="index.php">
                                             <img class="logo-main" src="images/logo.png" alt="" >
                                             <img class="logo-mobile" src="images/logo-mobile.png" alt="" >
                                         </a>
@@ -54,7 +54,7 @@
                                     <div class="h-phone md-hide">
                                         <span>Need Help?</span>8383856542
                                     </div>                                    
-                                    <a href="contact.html" class="btn-line">Contact us</a>
+                                    <a href="contact.php" class="btn-line">Contact us</a>
                                     <span id="menu-btn"></span>
                                 </div>
                             </div>
