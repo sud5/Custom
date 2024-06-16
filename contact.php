@@ -57,7 +57,7 @@
                                 <img src="images/svg/phone-svgrepo-com-white.svg" class="" alt="">
                                 <div class="d-text">
                                     <h4>Phone</h4>
-                                    8383856542
+                                    +91-9873420908
                                 </div>
                             </div>
                         </div>

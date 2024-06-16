@@ -7,7 +7,7 @@
                         <img src="images/logo.png" alt="" >
                         <div class="spacer-20"></div>
                         <p>We aspire to create a digital landscape where technology seamlessly enhances productivity, connectivity, and sustainability, fostering a brighter, more efficient, and inclusive future for all.</p>
-
+<!--
                         <div class="widget">
                             <h5>Follow Us on</h5>
                             <div class="social-icons">
@@ -17,7 +17,7 @@
                                 <a href="#"><i class="fa-brands fa-tiktok"></i></a>
                                 <a href="#"><i class="fa-brands fa-youtube"></i></a>
                             </div>
-                        </div>
+                        </div>-->
                     </div>
                     <div class="col-lg-4 col-sm-12 order-lg-1 order-sm-2">
                         <div class="row">
@@ -56,7 +56,7 @@
                                 <img src="images/svg/phone-svgrepo-com-white.svg" class="" alt="">
                                 <div class="d-text">
                                     <h4>Phone</h4>
-                                    8383856542
+                                    +91-9873420908
                                 </div>
                             </div>
 

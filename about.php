@@ -68,11 +68,11 @@
                                   <div class="content-right-container">
                                     <div class="year__">
                                       <div class="d-line"></div>
-                                      <h4 class="de-timeline-year">2008</h4>
+                                      <h4 class="de-timeline-year">2018</h4>
                                     </div>
                                     <div class="content-right">
                                       <h3 class="de-timeline-title">Company Inception</h3>
-                                      <p>In the year 2000, a group of visionary tech enthusiasts founded our IT company. With a shared passion for technology, they embarked on a journey to establish a firm that would provide innovative solutions to the ever-evolving world of information technology.</p>
+                                      <p>In 2018, our company was born with a singular vision: to revolutionize the landscape of education for small institutions by introducing a dynamic Learning Management System (LMS) tailored for customised learning. We also recognized the growing need for accessible e-learning platforms among smaller educational entities, and thus embarked on a journey to bridge this gap. Our platform offers a comprehensive suite of features designed to cater to diverse learning styles and preferences. From live classes that foster real-time interaction to self-paced courses allowing for individualized progress, and instructor-led sessions ensuring expert guidance, our LMS is a versatile solution empowering institutions to seamlessly transition into the digital era while preserving the essence of traditional education. Through innovation and dedication, we continue to shape the future of learning, making quality education accessible to all.</p>
                                     </div>
                                   </div>
                                   <div class="meta-dot">
@@ -85,7 +85,7 @@
                                   <div class="content-left-container">
                                     <div class="year__">
                                       <div class="d-line"></div>
-                                      <h4 class="de-timeline-year">2012</h4>
+                                      <h4 class="de-timeline-year">2022</h4>
                                     </div>
                                     <div class="content-right">
                                       <h3 class="de-timeline-title">Office Expansion</h3>
@@ -119,8 +119,8 @@
                                       <h4 class="de-timeline-year">2023</h4>
                                     </div>
                                     <div class="content-right">
-                                      <h3 class="de-timeline-title">15th Anniversary</h3>
-                                      <p>In 2023, we celebrated our 15th year in the IT industry. We commemorated this milestone by focusing on sustainability and green IT initiatives, committing ourselves to reduce our environmental footprint. Our efforts did not go unnoticed, as we received industry awards for our outstanding service and innovation.</p>
+                                      <h3 class="de-timeline-title">5th Anniversary</h3>
+                                      <p>As we marked our fifth anniversary in 2023, we reflected not only on our journey of growth and innovation but also on our responsibility to the planet. Embracing the significance of sustainability, we dedicated ourselves to fostering a greener future through our Green IT initiatives. Committed to reducing our environmental footprint, we implemented measures to enhance energy efficiency, minimize waste, and promote eco-friendly practices across all facets of our operations. This milestone was not just a celebration of our achievements but also a reaffirmation of our commitment to making a positive impact on the world. </p>
                                     </div>
                                   </div>
                                   <div class="meta-dot">
@@ -133,7 +133,7 @@
                 </div>
             </section>
 
-            <section class="bg-dark-1 text-light">
+<!--            <section class="bg-dark-1 text-light">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-8">
@@ -195,35 +195,35 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section>-->
             
             <section>
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
                             <div class="de_count wow fadeInUp">
-                                <h3><span class="timer" data-to="875" data-speed="3000"></span>+</h3>
+                                <h3><span class="timer" data-to="175" data-speed="2000"></span>+</h3>
                                 <h4>Projects Completed</h4>
                             </div>
                         </div>
 
                         <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
                             <div class="de_count wow fadeInUp">
-                                <h3><span class="timer" data-to="100" data-speed="3000"></span>+</h3>
+                                <h3><span class="timer" data-to="12" data-speed="2000"></span>+</h3>
                                 <h4>Awards Winning</h4>
                             </div>
                         </div>
 
                         <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
                             <div class="de_count wow fadeInUp">
-                                <h3><span class="timer" data-to="99" data-speed="3000"></span>%</h3>
+                                <h3><span class="timer" data-to="99" data-speed="2000"></span>%</h3>
                                 <h4>Customer Satisfication</h4>
                             </div>
                         </div>
 
                         <div class="col-lg-3 col-md-6 mb-sm-20 position-relative">
                             <div class="de_count wow fadeInUp">
-                                <h3><span class="timer" data-to="18" data-speed="3000"></span>+</h3>
+                                <h3><span class="timer" data-to="15" data-speed="2000"></span>+</h3>
                                 <h4>Year of Experiences</h4>
                             </div>
                         </div>

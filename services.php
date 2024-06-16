@@ -39,7 +39,7 @@
                     <div class="row text-center">
                         <div class="col-lg-8 offset-lg-2">
                             <div class="subtitle s2 wow fadeInUp mb-3">Our services</div>
-                            <h2 class="wow fadeInUp mb20" data-wow-delay=".2s">What can UpTech do for you?</h2>
+                            <h2 class="wow fadeInUp mb20" data-wow-delay=".2s">What we can do for you?</h2>
                             <ul class="crumb">
                                 <li><a href="index.html">Home</a></li>
                                 <li class="active">Services</li>
@@ -58,7 +58,7 @@
                                 <img src="images/svg/collaboration-svgrepo-com.svg" class="w-80px mb20" alt="">
                                 <h4>Managed IT Services</h4>
                                 <hr class="s2">
-                                <p>Provide management and maintenance of IT infrastructure, including servers, networks, and software.</p>
+                                <p>Having collaborated with a diverse range of organizations utilizing Moodle, we've gained invaluable insights into the dos and don'ts of eLearning implementations. Our expertise enables us to assess your current status accurately and guide you effectively towards your desired educational goals.</p>
                             </div>
                         </div>
 
@@ -92,9 +92,9 @@
                         <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay="0s">
                             <div class="p-4 pb-2 bg-grey h-100">
                                 <img src="images/svg/all-servers-svgrepo-com.svg" class="w-80px mb20" alt="">
-                                <h4>Network Services</h4>
+                                <h4>Theming and designing</h4>
                                 <hr class="s2">
-                                <p>Planning computer networks and protecting networks from unauthorized access and cyber threats</p>
+                                <p>Partner with our creative team to craft a unique and innovative look for your Moodle site that aligns seamlessly with your organization's brand and identity.</p>
                             </div>
                         </div>
 
@@ -119,9 +119,9 @@
                         <div class="col-lg-3 col-md-6 wow fadeInRight" data-wow-delay=".6s">
                             <div class="p-4 pb-2 bg-grey h-100">
                                 <img src="images/svg/headset-svgrepo-com.svg" class="w-80px mb20" alt="">
-                                <h4>IT Consulting</h4>
+                                <h4>Integration</h4>
                                 <hr class="s2">
-                                <p>Providing expert advice on IT strategy, technology adoption, and digital transformation.</p>
+                                <p>Are you considering integrating your Moodle site with your Student Management System or HRIS? Maybe you're exploring Single Sign-On (SSO) to streamline user access, lower support expenses, and enhance cybersecurity. Whatever your integration needs, we're here to lend our expertise and ensure a seamless transition that optimizes efficiency and security across your educational ecosystem.</p>
                             </div>
                         </div>
                     </div>
@@ -141,7 +141,7 @@
 
                         <div class="col-lg-6">
                             <div class="subtitle s2 wow fadeInUp mb-3">Trusted IT Solution</div>
-                            <h2 class="wow fadeInUp" data-wow-delay=".2s">Delivering outstanding IT services since 2008</h2>
+                            <h2 class="wow fadeInUp" data-wow-delay=".2s">Delivering outstanding IT services since 2018</h2>
                             <p class="wow fadeInUp">We are a dynamic and forward-thinking IT company dedicated to transforming your digital world. With a passion for cutting-edge solutions and a commitment to exceptional service, we are your trusted partner in navigating the ever-evolving landscape of IT. Our team of skilled professionals is here to harness the power of technology, providing tailor-made solutions that drive your success. </p>
                             <hr class="s2">
                             <div class="spacer-10"></div>
