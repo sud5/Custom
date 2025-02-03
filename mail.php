@@ -27,10 +27,10 @@ try {
     $mail->AltBody = 'His Email:'. $_POST['Email'] .'and Phone number:'.$POST['phone'] ; // For non-HTML clients
 
     $mail->send();
-    $url = "/UpTech/uptech/contact.php?sent=1";
+    $url = "/contact.php?sent=1";
 } catch (Exception $e) {
 //    echo "Email could not be sent. Mailer Error: {$mail->ErrorInfo}";
-    $url = "/UpTech/uptech/contact.php?sent=2";
+    $url = "/contact.php?sent=2";
 }
 header('Location: '.$url);
 ?>
