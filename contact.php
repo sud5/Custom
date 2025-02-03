@@ -108,7 +108,7 @@
                                     <img src="images/svg/map-pin-svgrepo-com-white.svg" class="" alt="">
                                     <div class="d-text">
                                         <h4>Address</h4>
-                                        O1117 Gaur City Centre, Gaur Chowk, Greater Noida(W) Sec. 4, UP 203207 <?php echo $sent; ?>
+                                        O1117 Gaur City Centre, Gaur Chowk, Greater Noida(W) Sec. 4, UP 203207
                                     </div>
                                 </div>
                             </div>
