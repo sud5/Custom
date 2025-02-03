@@ -51,7 +51,7 @@
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <div class="subtitle s2 wow fadeInUp mb-3">Testimonial</div>
-                                        <h2 class="mb20 wow fadeInUp" data-wow-delay=".2s">"We’ve been using 2PI Solutions for approximately 2 yrs now to help manage and maintain our LMS. We couldn’t be more pleased with their efforts! Their availability and response time has always been excellent, and their expertise and problem-solving skills are top notch! I look forward to working with them for years to come."</h2>
+                                        <h3 class="mb20 wow fadeInUp" data-wow-delay=".2s">"We’ve been using 2PI Solutions for approximately 2 yrs now to help manage and maintain our LMS. We couldn’t be more pleased with their efforts! Their availability and response time has always been excellent, and their expertise and problem-solving skills are top notch! I look forward to working with them for years to come."</h3>
                                         <h6 class="mb20 wow fadeInUp">B. Guercio - Product Support and Training Manager</h6>
                                     </div>
                                 </div>

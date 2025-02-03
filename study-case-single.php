@@ -41,7 +41,7 @@
                             <div class="subtitle s2 wow fadeInUp mb-3">Study Case</div>
                             <h2 class="wow fadeInUp mb20" data-wow-delay=".2s">The Role of Managed IT Services in Small Business Success</h2>
                             <ul class="crumb">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li class="active">Study Case</li>
                             </ul>
                             <div class="spacer-single"></div>

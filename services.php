@@ -41,7 +41,7 @@
                             <div class="subtitle s2 wow fadeInUp mb-3">Our services</div>
                             <h2 class="wow fadeInUp mb20" data-wow-delay=".2s">What we can do for you?</h2>
                             <ul class="crumb">
-                                <li><a href="index.html">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li class="active">Services</li>
                             </ul>
                         </div>                 
