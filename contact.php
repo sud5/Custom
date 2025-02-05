@@ -117,16 +117,16 @@
                 </section>
 
                 <section>
-                    <?php if($sent == 1 ){ ?>
-                    <div class="message" id="closableMessage">
-                        <button class="close-btn" onclick="closeMessage()">&times;</button>
-                        Thanks for your mail, Someone from our team will get back withing 24 hours!!
-                    </div>
-                    <?php } elseif($sent == 2) { ?>
-                       <div class="message" id="closableMessage">
-                        <button class="close-btn" onclick="closeMessage()">&times;</button>
-                        Due to technical issue not able to get your message please try after some time or connect us at connect@2pisolutions.com!!
-                    </div>
+                    <?php if ($sent == 1) { ?>
+                        <div class="message" id="closableMessage">
+                            <button class="close-btn" onclick="closeMessage()">&times;</button>
+                            Thanks for your mail, Someone from our team will get back withing 24 hours!!
+                        </div>
+                    <?php } elseif ($sent == 2) { ?>
+                        <div class="message" id="closableMessage">
+                            <button class="close-btn" onclick="closeMessage()">&times;</button>
+                            Due to technical issue not able to get your message please try after some time or connect us at connect@2pisolutions.com!!
+                        </div>
                     <?php } ?>
                     <div class="container">
                         <div class="row">
@@ -156,6 +156,13 @@
                                                 <textarea name="message" id="message" class="form-control" placeholder="Your Message" required></textarea>
                                             </div>
                                         </div>
+
+                                        <div class="col-lg-6 col-md-6">
+                                            <div class="field-set mb20">
+                                                <input type="checkbox" id="consent" name="consent" value=1 required>
+                                                <label for="vehicle1"> I consent to be contacted via email.</label><br>
+                                            </div>
+                                        </div>
                                     </div>
 
 
@@ -178,7 +185,7 @@
 
             </div>
             <!-- content close -->
-<?php include_once("footer.php"); ?>
+            <?php include_once("footer.php"); ?>
         </div>
 
         <!-- Javascript Files
@@ -188,9 +195,9 @@
         <script src='https://www.google.com/recaptcha/api.js' async defer></script>
         <script src="recaptcha.js"></script>
         <script>
-            function closeMessage() {
-                document.getElementById('closableMessage').style.display = 'none';
-            }
+                            function closeMessage() {
+                                document.getElementById('closableMessage').style.display = 'none';
+                            }
         </script>
 
     </body>
