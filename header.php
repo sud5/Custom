@@ -21,6 +21,7 @@
                                         <a href="index.php">
                                             <img class="logo-main" src="images/logo.png" alt="" >
                                             <img class="logo-mobile" src="images/logo-mobile.png" alt="" >
+                                            <img class="logo-new" src="images/logo-clients/slam-labs-logo.png" alt="Slam Labs Logo">
                                         </a>
                                     </div>
                                     <!-- logo close -->
