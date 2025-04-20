@@ -10,11 +10,11 @@
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
      })(window,document,'script','dataLayer','GTM-KWMZVMMF');</script>
     <!-- End Google Tag Manager -->
-    <title>2PI Solutions</title>
+    <title>2 PI Solution LMS Development Company in India</title>
     <link rel="icon" href="images/favicon.ico" type="image/gif" sizes="16x16">
     <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
     <meta content="width=device-width, initial-scale=1.0" name="viewport" >
-    <meta content="UpTech — IT Solutions and Services Website Template" name="description" >
+    <meta content="2 PI Solution specializes in developing tailored Learning Management Systems (LMS) to enhance educational and training experiences for organizations." name="description" >
     <meta content="" name="keywords" >
     <meta content="" name="author" >
     <!-- CSS Files

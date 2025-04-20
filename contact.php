@@ -10,11 +10,11 @@
         })(window,document,'script','dataLayer','GTM-KWMZVMMF');</script>
          <!-- End Google Tag Manager -->
 
-        <title>2PI Solutions</title>
+        <title>Contact 2 PI Solution for LMS development</title>
         <link rel="icon" href="images/favicon.ico" type="image/gif" sizes="16x16">
         <meta content="text/html;charset=utf-8" http-equiv="Content-Type">
         <meta content="width=device-width, initial-scale=1.0" name="viewport" >
-        <meta content="UpTech — IT Solutions and Services Website Template" name="description" >
+        <meta content="Get in touch with 2 PI solutions for customized LMS solutions tailored to your organization's needs" name="description" >
         <meta content="" name="keywords" >
         <meta content="" name="author" >
         <!-- CSS Files
