@@ -25,12 +25,12 @@
                                 <div class="widget">
                                     <h5>Company</h5>
                                     <ul>                                        
-                                        <li><a href="index.html">Home</a></li>
-                                        <li><a href="services.html">Our Services</a></li>
-                                        <li><a href="study-case.html">Study Case</a></li>
-                                        <li><a href="about.html">About Us</a></li>
-                                        <li><a href="news.html">News</a></li>
-                                        <li><a href="contact.html">Contact</a></li>
+                                        <li><a href="index.php">Home</a></li>
+                                        <li><a href="services.php">Our Services</a></li>
+                                        <li><a href="study-case-single.php">Study Case</a></li>
+                                        <li><a href="about.php">About Us</a></li>
+                                        <li><a href="news.php">News</a></li>
+                                        <li><a href="contact.php">Contact</a></li>
                                     </ul>
                                 </div>
                             </div>
