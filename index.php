@@ -29,6 +29,7 @@
 
 </head>
 
+
 <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KWMZVMMF"
@@ -178,7 +179,7 @@
                                 <img src="images/svg/collaboration-svgrepo-com.svg" class="w-80px mb20" alt="">
                                 <h4>Managed IT Services</h4>
                                 <hr class="s2">
-                                <p class="mb0">Having collaborated with a diverse range of organizations utilizing Moodle, we've gained invaluable insights into the dos and don'ts of eLearning implementations. Our expertise enables us to assess your current status accurately and guide you effectively towards your desired educational goals. Let us leverage our experience to help you navigate your Moodle journey with confidence and clarity.</p>
+                                <p class="mb0">Through our work with a wide variety of organizations using Moodle, we've developed deep insights into what drives successful eLearning projects — and what to avoid. This experience allows us to evaluate your current setup with precision and help you move confidently toward your learning and development objectives Let us leverage our experience to help you navigate your Moodle journey with confidence and clarity.</p>
                             </div>
                         </div>
 
@@ -187,7 +188,7 @@
                                 <img src="images/svg/embedded-live-content-svgrepo-com.svg" class="w-80px mb20" alt="">
                                 <h4>Software Development</h4>
                                 <hr class="s2">
-                                <p class="mb0">Creating and maintaining functional and efficient software applications that address a multitude of tasks.</p>
+                                <p class="mb0">Designing and sustaining high-performing software solutions capable of handling a wide range of functions effectively.</p>
                             </div>
                         </div>
 
@@ -196,7 +197,7 @@
                                 <img src="images/svg/lock-svgrepo-com.svg" class="w-80px mb20" alt="">
                                 <h4>Cybersecurity Services</h4>
                                 <hr class="s2">
-                                <p class="mb0">Protecting digital assets by providing services like firewall management and vulnerability assessments.</p>
+                                <p class="mb0">Safeguarding your digital infrastructure through services such as firewall configuration, threat detection, and vulnerability assessments.</p>
                             </div>
                         </div>
 
@@ -205,7 +206,7 @@
                                 <img src="images/svg/data-check-svgrepo-com.svg" class="w-80px mb20" alt="">
                                 <h4>Integration</h4>
                                 <hr class="s2">
-                                <p class="mb0">Are you considering integrating your Moodle site with your Student Management System or HRIS? Maybe you're exploring Single Sign-On (SSO) to streamline user access, lower support expenses, and enhance cybersecurity. Whatever your integration needs, we're here to lend our expertise and ensure a seamless transition that optimizes efficiency and security across your educational ecosystem.</p>
+                                <p class="mb0">Thinking about connecting your Moodle platform with a Student Management System or HRIS? Or perhaps you're evaluating Single Sign-On (SSO) to simplify user access, reduce support costs, and strengthen data security. Whatever the case, our team is ready to support your integration journey, ensuring a smooth process that enhances both performance and protection across your learning environment.</p>
                             </div>
                         </div>
                     </div>
@@ -214,7 +215,7 @@
 
             <section class="bg-dark-1 text-light">
                 <div class="container">
-                    <div class="row align-items-center gx-5">
+                    <div class="row align-items-center gx-5">As a progressive IT company, we specialize in reshaping your digital landscape with innovative solutions and unwavering service quality. Backed by a team of experienced professionals, we deliver customized technologies designed to propel your growth and help you stay ahead in the constantly evolving world of IT.
                         <div class="col-lg-6 mb-sm-20 position-relative">
                             <div class="images-deco-1">
                                 <img src="images/misc/1.webp" class="d-img-1 wow zoomIn" data-wow-delay="0s" alt="">
@@ -226,7 +227,7 @@
                         <div class="col-lg-6">
                             <div class="subtitle s2 wow fadeInUp mb-3">Trusted IT Solution</div>
                             <h2 class="wow fadeInUp" data-wow-delay=".2s">Delivering outstanding IT services since 2018</h2>
-                            <p class="wow fadeInUp">We are a dynamic and forward-thinking IT company dedicated to transforming your digital world. With a passion for cutting-edge solutions and a commitment to exceptional service, we are your trusted partner in navigating the ever-evolving landscape of IT. Our team of skilled professionals is here to harness the power of technology, providing tailor-made solutions that drive your success. </p>
+                            <p class="wow fadeInUp">As a progressive IT company, we specialize in reshaping your digital landscape with innovative solutions and unwavering service quality. Backed by a team of experienced professionals, we deliver customized technologies designed to propel your growth and help you stay ahead in the constantly evolving world of IT.</p>
                             <hr class="s2">
                             <div class="spacer-10"></div>
                             <a class="btn-line mb10" href="services.php">Our Services</a>
@@ -299,10 +300,6 @@
                     <div class="row g-4">
                         <div class="col-md-12">
                             <div id="owl-logo" class="logo-carousel no-alpha owl-carousel owl-theme">
-<!--                                <img src="images/logo-clients/1.png" class="img-fluid" alt="">
-                                <img src="images/logo-clients/2.png" class="img-fluid" alt="">
-                                <img src="images/logo-clients/3.png" class="img-fluid" alt="">
-                                <img src="images/logo-clients/4.png" class="img-fluid" alt="">-->
                                 <img src="images/logo-clients/5.png" class="img-fluid" alt="">
                                 <img src="images/logo-clients/6.jpg" class="img-fluid" alt="">
                                 <img src="images/logo-clients/7.png" class="img-fluid" alt="">
@@ -315,19 +312,39 @@
             </section>
 
         </div>
-        <!-- content close -->
-        <?php include_once("footer.php"); ?>
+       
+        
+
 
     </div>
     
-    <!-- Javascript Files
-    ================================================== -->
+    
     <script src="js/plugins.js"></script>
     <script src="js/designesia.js"></script>
     <script src="js/swiper.js"></script>
     <script src="js/custom-marquee.js"></script>
     <script src="js/custom-swiper-1.js"></script>
 
+    
+<?php include_once("footer.php"); ?>
+<!-- index.php -->
+ <?php include 'header.php'; ?>
+
+<!-- Main content starts here -->
+<main>
+  <h1>Welcome to my homepage</h1>
+  <p>This is the main content section.</p>
+</main>
+<!-- Main content ends here -->
+
+<?php include 'footer.php'; ?>
+
+
+
 </body>
+</html>
+
+</body>
+
 
 </html>
