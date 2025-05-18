@@ -326,16 +326,7 @@
     <script src="js/custom-swiper-1.js"></script>
 
     
-<?php include_once("footer.php"); ?>
-<!-- index.php -->
- <?php include 'header.php'; ?>
 
-<!-- Main content starts here -->
-<main>
-  <h1>Welcome to my homepage</h1>
-  <p>This is the main content section.</p>
-</main>
-<!-- Main content ends here -->
 
 <?php include 'footer.php'; ?>
 

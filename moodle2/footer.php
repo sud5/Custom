@@ -1,6 +1,6 @@
 
         <!-- begin -->
-         <?php echo "<div style='background:red;color:white;padding:10px;'>FOOTER LOADED</div>"; ?>
+         
         <footer>
             <div class="container">
                 <div class="row gx-5">
